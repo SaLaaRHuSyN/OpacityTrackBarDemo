@@ -1,0 +1,10 @@
+C:\Users\SaLaaR HuSyN\source\repos\OpacityTrackBarDemo\OpacityTrackBarDemo\bin\Debug\OpacityTrackBarDemo.exe.config
+C:\Users\SaLaaR HuSyN\source\repos\OpacityTrackBarDemo\OpacityTrackBarDemo\bin\Debug\OpacityTrackBarDemo.exe
+C:\Users\SaLaaR HuSyN\source\repos\OpacityTrackBarDemo\OpacityTrackBarDemo\bin\Debug\OpacityTrackBarDemo.pdb
+C:\Users\SaLaaR HuSyN\source\repos\OpacityTrackBarDemo\OpacityTrackBarDemo\obj\Debug\OpacityTrackBarDemo.csprojResolveAssemblyReference.cache
+C:\Users\SaLaaR HuSyN\source\repos\OpacityTrackBarDemo\OpacityTrackBarDemo\obj\Debug\OpacityTrackBarDemo.Form1.resources
+C:\Users\SaLaaR HuSyN\source\repos\OpacityTrackBarDemo\OpacityTrackBarDemo\obj\Debug\OpacityTrackBarDemo.Properties.Resources.resources
+C:\Users\SaLaaR HuSyN\source\repos\OpacityTrackBarDemo\OpacityTrackBarDemo\obj\Debug\OpacityTrackBarDemo.csproj.GenerateResource.Cache
+C:\Users\SaLaaR HuSyN\source\repos\OpacityTrackBarDemo\OpacityTrackBarDemo\obj\Debug\OpacityTrackBarDemo.csproj.CoreCompileInputs.cache
+C:\Users\SaLaaR HuSyN\source\repos\OpacityTrackBarDemo\OpacityTrackBarDemo\obj\Debug\OpacityTrackBarDemo.exe
+C:\Users\SaLaaR HuSyN\source\repos\OpacityTrackBarDemo\OpacityTrackBarDemo\obj\Debug\OpacityTrackBarDemo.pdb
